@@ -1,0 +1,2 @@
+<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/categories.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/categories_responsive.css">

@@ -1,0 +1,28 @@
+/*Color*/
+.bg-pink{
+	background-color: #A80F78;
+}
+
+.pink{
+	color: #A80F78;
+}
+
+.white{
+	color: white;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/*Margin*/
+/*.m-100{
+	margin: 100%;
+}
+*/
