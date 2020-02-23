@@ -8,7 +8,7 @@
 <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/plugins/OwlCarousel2-2.2.1/animate.css ?>"> -->
 
 <!-- JS -->
-<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/blog.css ?>">
-<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/blog_responsive.css ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/blog.css?>">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/blog_responsive.css?>">
 
 

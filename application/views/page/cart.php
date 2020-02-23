@@ -35,7 +35,7 @@
 					<li><a href="#">woman</a></li>
 					<li><a href="#">man</a></li>
 					<li><a href="#">lookbook</a></li> 
-					<li><a href="#">blog</a></li>
+					<li><a href="#">blog</a></li> 
 					<li><a href="#">contact</a></li>
 				</ul>
 			</nav>

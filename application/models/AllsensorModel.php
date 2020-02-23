@@ -30,7 +30,13 @@ class AllsensorModel extends CI_Model{
 		// $data['footer'] = $this->load->view('template/footer', NULL, TRUE);
 		// $data['navbar'] = $this->load->view('template/header', NULL, TRUE);
 
-
+		// $query = $this->db->query("SELECT name from product");
+		// $result = $query->result_array();
+		// echo "<pre>";
+		// var_dump($result);
+		// echo "</pre>";
+		// die();
+		// return $result;
         // $this->load->view('page/index.php', null);
 	}
 	

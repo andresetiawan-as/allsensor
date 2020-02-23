@@ -35,6 +35,9 @@ class AllsensorCtr extends CI_Controller {
 		$data['index_style']=$this->load->view('include/style/index_style.php',NULL,TRUE);
 		$data['style']=$this->load->view('include/style/style.php',NULL,TRUE);
 		$data['script']=$this->load->view('include/script/script.php',NULL,TRUE);
+
+		// $data['product'] = $this->AllsensorModel->index();
+		// die();
 		$this->load->view('page/index.php', $data);
 
 		// $data['script_dashboard']=$this->load->view('include/script_dashboard.php',NULL,TRUE);

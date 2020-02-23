@@ -383,7 +383,6 @@
 
 			</div>
 		</div>
-
 		<!-- Boxes -->
 
 		<div class="boxes">
@@ -438,6 +437,11 @@
 					</div>
 				</div>
 			</div>
+		</div>
+
+		<div>
+		<h1>Ini Product</h1>
+		<?php echo $product;?>
 		</div>
 
 		<!-- Products -->
