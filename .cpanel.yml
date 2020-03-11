@@ -1,0 +1,16 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/user/public_html/
+    - /bin/cp application $DEPLOYPATH
+    - /bin/cp assets $DEPLOYPATH
+    - /bin/cp system $DEPLOYPATH
+    - /bin/cp user_guide $DEPLOYPATH
+    - /bin/cp .editorconfig $DEPLOYPATH
+    - /bin/cp .gitignore $DEPLOYPATH'
+    - /bin/cp composer.json $DEPLOYPATH
+    - /bin/cp contributing.md $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp license.txt $DEPLOYPATH
+    - /bin/cp README.md $DEPLOYPATH
+    - /bin/cp readme.rst $DEPLOYPATH
