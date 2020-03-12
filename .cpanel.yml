@@ -2,7 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/jtskrfqu/public_html/
-    - /bin/cp * $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
     # - /bin/cp assets $DEPLOYPATH
     # - /bin/cp system $DEPLOYPATH
     # - /bin/cp user_guide $DEPLOYPATH
