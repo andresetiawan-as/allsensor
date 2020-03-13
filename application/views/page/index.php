@@ -381,6 +381,7 @@
 								<div class="box_title trans_200"><a href="categories.html">summer collection</a></div>
 							</div>
 						</div>
+						
 
 						<!-- Box -->
 						<div class="col-lg-4 box_col">
