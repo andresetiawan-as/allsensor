@@ -36,6 +36,13 @@ class AllsensorCtr extends CI_Controller {
 		$data['style']=$this->load->view('include/style/style.php',NULL,TRUE);
 		$data['script']=$this->load->view('include/script/script.php',NULL,TRUE);
 
+		$data['header']=$this->load->view('template/header.php',NULL,TRUE);
+		$data['sidebar']=$this->load->view('template/sidebar.php',NULL,TRUE);
+		$data['footer']=$this->load->view('template/footer.php',NULL,TRUE);
+		$data['newsletter']=$this->load->view('template/newsletter.php',NULL,TRUE);
+		$data['carousel_home']=$this->load->view('template/carousel_home.php',NULL,TRUE);
+		
+
 		// $data['product'] = $this->AllsensorModel->index();
 		// die();
 		$this->load->view('page/index.php', $data);
@@ -61,6 +68,13 @@ class AllsensorCtr extends CI_Controller {
 		$data['blog_style'] = $this->load->view('include/style/blog_style.php',NULL,TRUE);
 		$data['style']=$this->load->view('include/style/style.php',NULL,TRUE);
 		$data['script']=$this->load->view('include/script/script.php',NULL,TRUE);
+
+		$data['header']=$this->load->view('template/header.php',NULL,TRUE);
+		$data['sidebar']=$this->load->view('template/sidebar.php',NULL,TRUE);
+		$data['footer']=$this->load->view('template/footer.php',NULL,TRUE);
+		$data['newsletter']=$this->load->view('template/newsletter.php',NULL,TRUE);
+		$data['carousel_home']=$this->load->view('template/carousel_home.php',NULL,TRUE);
+
 		$this->load->view('page/blog.php', $data);
 	}
 
@@ -69,6 +83,13 @@ class AllsensorCtr extends CI_Controller {
 		$data['cart_style'] = $this->load->view('include/style/cart_style.php',NULL,TRUE);
 		$data['style']=$this->load->view('include/style/style.php',NULL,TRUE);
 		$data['script']=$this->load->view('include/script/script.php',NULL,TRUE);
+
+		$data['header']=$this->load->view('template/header.php',NULL,TRUE);
+		$data['sidebar']=$this->load->view('template/sidebar.php',NULL,TRUE);
+		$data['footer']=$this->load->view('template/footer.php',NULL,TRUE);
+		$data['newsletter']=$this->load->view('template/newsletter.php',NULL,TRUE);
+		$data['carousel_home']=$this->load->view('template/carousel_home.php',NULL,TRUE);
+
 		$this->load->view('page/cart.php', $data);
 	}
 
@@ -77,6 +98,13 @@ class AllsensorCtr extends CI_Controller {
 		$data['categories_style'] = $this->load->view('include/style/categories_style.php',NULL,TRUE);
 		$data['style']=$this->load->view('include/style/style.php',NULL,TRUE);
 		$data['script']=$this->load->view('include/script/script.php',NULL,TRUE);
+
+		$data['header']=$this->load->view('template/header.php',NULL,TRUE);
+		$data['sidebar']=$this->load->view('template/sidebar.php',NULL,TRUE);
+		$data['footer']=$this->load->view('template/footer.php',NULL,TRUE);
+		$data['newsletter']=$this->load->view('template/newsletter.php',NULL,TRUE);
+		$data['carousel_home']=$this->load->view('template/carousel_home.php',NULL,TRUE);
+
 		$this->load->view('page/categories.php', $data);
 	}
 
@@ -85,6 +113,13 @@ class AllsensorCtr extends CI_Controller {
 		$data['checkout_style'] = $this->load->view('include/style/checkout_style.php',NULL,TRUE);
 		$data['style']=$this->load->view('include/style/style.php',NULL,TRUE);
 		$data['script']=$this->load->view('include/script/script.php',NULL,TRUE);
+
+		$data['header']=$this->load->view('template/header.php',NULL,TRUE);
+		$data['sidebar']=$this->load->view('template/sidebar.php',NULL,TRUE);
+		$data['footer']=$this->load->view('template/footer.php',NULL,TRUE);
+		$data['newsletter']=$this->load->view('template/newsletter.php',NULL,TRUE);
+		$data['carousel_home']=$this->load->view('template/carousel_home.php',NULL,TRUE);
+
 		$this->load->view('page/checkout.php', $data);
 	}
 
@@ -95,6 +130,13 @@ class AllsensorCtr extends CI_Controller {
 		$data['imageZoom_script'] = $this->load->view('include/script/imageZoom_script.php',NULL,TRUE);
 		$data['style']=$this->load->view('include/style/style.php',NULL,TRUE);
 		$data['script']=$this->load->view('include/script/script.php',NULL,TRUE);
+
+		$data['header']=$this->load->view('template/header.php',NULL,TRUE);
+		$data['sidebar']=$this->load->view('template/sidebar.php',NULL,TRUE);
+		$data['footer']=$this->load->view('template/footer.php',NULL,TRUE);
+		$data['newsletter']=$this->load->view('template/newsletter.php',NULL,TRUE);
+		$data['carousel_home']=$this->load->view('template/carousel_home.php',NULL,TRUE);
+		
 		$this->load->view('page/product.php', $data);
 	}
 }
