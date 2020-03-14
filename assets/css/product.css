@@ -438,9 +438,10 @@ section
 }
 .sidebar_logo
 {
-	padding-left: 25px;
-	padding-right: 26px;
-	margin-top: 64px;
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 25%;
 }
 .sidebar_logo a
 {
@@ -694,7 +695,7 @@ section
 {
 	display: block;
 }
-.header_logo a > div
+/* .header_logo a > div
 {
 	border: solid 2px #bbe432;
 	padding-top: 13px;
@@ -706,7 +707,7 @@ section
 	color: #bbe432;
 	padding-left: 14px;
 	padding-right: 16px;
-}
+} */
 .header_logo a > div span
 {
 	text-transform: uppercase;

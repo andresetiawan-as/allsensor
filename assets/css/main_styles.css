@@ -440,9 +440,10 @@ section
 }
 .sidebar_logo
 {
-	padding-left: 25px;
-	padding-right: 26px;
-	margin-top: 64px;
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 25%;
 }
 .sidebar_logo a
 {
