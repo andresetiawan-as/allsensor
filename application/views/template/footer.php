@@ -95,7 +95,7 @@
                                         <div>info@allsensor.co.id</div>
                                     </li>
                                     <li class="d-flex flex-row align-items-start justify-content-start"><span><i class="fa fa-map-marker" aria-hidden="true"></i> Add : </span>
-                                        <div>Jalan Raya Prancis, Ruko Kosambi Megah No. 29 Jatimulya, Kosambi, Tanngerang</div>
+                                        <div>Jalan Raya Prancis, Ruko Kosambi Megah No. 29 Jatimulya, Kosambi, Kab. Tanngerang, Banten, 15211 - Indonesia</div>
                                     </li>
                                 </ul>
                             </div>
