@@ -79,7 +79,7 @@
                     </div> -->
 
                     <!-- Contact -->
-                    <div class=" col-md-8 footer_col">
+                    <div class=" col-md-12 footer_col">
                         <div class="footer_contact">
                             <div class="footer_title">Contact</div>
                             <div class="footer_title">PT Alpha Xhvales Indonesia</div>
