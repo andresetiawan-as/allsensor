@@ -82,7 +82,7 @@
                     <div class=" col-md-12 footer_col">
                         <div class="footer_contact">
                             <div class="footer_title">Contact</div>
-                            <div class="footer_title">PT Alpha Xhvales Indonesia</div>
+                            <div class="footer_title">PT Alpha Berjaya Sempoerna</div>
                             <div class="footer_contact_list">
                                 <ul>
                                     <li class="d-flex flex-row align-items-start justify-content-start"><span><i class="fa fa-user" aria-hidden="true"></i> Tel : </span>
